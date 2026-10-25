@@ -17,7 +17,7 @@ switches:
   - name: traditional
     states: [ 简, 繁 ]
   - name: ascii_punct
-    # reset: 0
+    reset: 1
     states: ["。","."]
 engine:
   processors:

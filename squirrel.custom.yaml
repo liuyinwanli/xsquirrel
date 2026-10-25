@@ -8,14 +8,14 @@ patch:
     # VSCode
     com.microsoft.VSCode:
       ascii_mode: false
-      ascii_punct: false
+      ascii_punct: true
     # 如果使用 iterm2
     com.googlecode.iterm2:
       ascii_mode: false
-      ascii_punct: false
+      ascii_punct: true
     com.mitchellh.ghostty:
       ascii_mode: false
-      ascii_punct: false
+      ascii_punct: true
 
   show_notifications_when: always
 
